@@ -8,9 +8,13 @@ Have a look at some of the open source projects I'm working on right now:
 
 👉 [Mocko](https://mocko.dev/) is a mocking tool that lets you create dynamic HTTP mocks, proxy your API, choose what to mock and create mock templates;
 
+👉 [Bigodon](https://github.com/gabriel-pinheiro/bigodon) Secure Handlebars (Mustache) templating for user-provided templates with async helpers support and human-friendly parsing errors;
+
 👉 [Elba](https://github.com/gabriel-pinheiro/elba-balancer) is a customizable HTTP load balancer aimed at retry options and monitoring. It's ideal for integrations behind unstable VPNs or networks;
 
 👉 [My Port Forward](https://github.com/gabriel-pinheiro/my-port-forward): Create named Kubernetes port-forward groups and start them with a single command;
+
+👉 [LogTunnel](https://github.com/gabriel-pinheiro/logtunnel) CLI tool that allows you to format, filter and search your log outputs;
 
 👉 [Ping Exporter](https://github.com/gabriel-pinheiro/ping-exporter): Export ping (ICMP) latency and loss data to Prometheus.
 
